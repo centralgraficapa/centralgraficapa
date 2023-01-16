@@ -1,4 +1,4 @@
 ### Nossas boas-vindas! 👋
 
-📃 Central Gráfica
-📍 Pouso Alegre - MG
+- 📃 Central Gráfica
+- 📍 Pouso Alegre - MG
